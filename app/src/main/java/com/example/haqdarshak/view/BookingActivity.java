@@ -35,7 +35,7 @@ public class BookingActivity extends AppCompatActivity implements BookingsAdapte
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-          activityBookingBinding = DataBindingUtil.setContentView(this, R.layout.activity_booking);
+          ActivityBookingBinding activityBookingBinding = DataBindingUtil.setContentView(this, R.layout.activity_booking);
 
 
         String jsonFileString = Utils.getJsonFromAssets(getApplicationContext(), "listdetails.json");
