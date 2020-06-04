@@ -1,0 +1,53 @@
+[
+  {
+    "bookingId": "202001",
+    "name": "Reema Jadhav",
+    "village" : "Khed",
+    "district": "Mulashi",
+    "state": "Maharastra",
+    "schemeId" : "002",
+    "schemeName" : "Insurance & Investment",
+    "status": "Open"
+  },
+  {
+
+    "bookingId": "202002",
+    "name": "Jayant Shaha",
+    "village" : "Dhari",
+    "district": "Amreli",
+    "state": "Gujrat",
+    "schemeId" : "002",
+    "schemeName" : "Insurance & Investment",
+    "status": "Open"
+  },
+  {
+    "bookingId": "202003",
+    "name": "Rekha Rao",
+    "village" : "Chandanwadi",
+    "district": "Thane",
+    "state": "Maharastra",
+    "schemeId" : "002",
+    "schemeName" : "Insurance & Investment",
+    "status": "Close"
+  },
+  {
+    "bookingId": "202004",
+    "name": "Tushar Shinde",
+    "village" : "wai",
+    "district": "Satara",
+    "state": "Maharastra",
+    "schemeId" : "002",
+    "schemeName" : "Insurance & Investment",
+    "status": "Open"
+  },
+  {
+    "bookingId": "202005",
+    "name": "Akash Singh",
+    "village" : "Attari",
+    "district": "Amritsar",
+    "state": "Punjab",
+    "schemeId" : "002",
+    "schemeName" : "Insurance & Investment",
+    "status": "Close"
+  }
+]
